@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yayunjin/
+    - icon: github
+      text: Github
+      href: https://github.com/YayunLovesCoding
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@machinelearningwithyayun
+    - icon: scooter
+      text: 小红书
+      href: https://www.xiaohongshu.com/user/profile/5f41ed87000000000101f948
+---
+
+This is Yayun who believes in 1% better every day then you will become 37 times greater after 1 year. Thanks to compound interest!
